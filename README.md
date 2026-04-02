@@ -33,7 +33,7 @@ Bu projeyi çalıştırmak için Python 3.x ve aşağıdaki kütüphane gereklid
 'pip install colorama'
 
 ##Projeyi Klonlama
-git clone [https://github.com/EmirT41/Hesaplama-Temelli-Adam-Asmaca.git](https://github.com/EmirT41/Hesaplama-Temelli-Adam-Asmaca.git)
+git clone [https://github.com/bilalbfc/Hangman.git](https://github.com/bilalbfc/Hangman.git)
 cd Hesaplama-Temelli-Adam-Asmaca
 
 ##Oyunu Başlatma
